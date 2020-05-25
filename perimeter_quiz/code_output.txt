@@ -1,0 +1,13 @@
+Largest perimeter among selected files is: 30.644674625170172
+File name with largest perimeter is: datatest1.txt
+perimeter = 59.45655247480979
+Number = 10
+Average length = 5.945655247480979
+Largest side = 8.48528137423857
+Largest X value is 10.0
+Largest perimeter among selected files is: 62.650940590154335
+File name with largest perimeter is: datatest5.txt
+Largest perimeter among selected files is: 28.848857801796104
+File name with largest perimeter is: example3.txt
+Largest perimeter among selected files is: 62.650940590154335
+File name with largest perimeter is: datatest5.txt
